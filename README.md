@@ -1,1 +1,1 @@
-# ML-Apps
+# Machine Learning
