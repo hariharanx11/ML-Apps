@@ -3,4 +3,4 @@
 #  -Harry Potter
 #  -Hermoine Granger
 #  -Ron Weasley 
-# using teachable Maching
+# using teachable Machine
